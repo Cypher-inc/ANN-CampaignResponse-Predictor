@@ -57,8 +57,6 @@ citation here.)*
     ANN-CampaignResponse-Predictor/
     │── Bank_ANN.ipynb    # Jupyter notebook with code
     │── README.md         # Project documentation
-    │── requirements.txt  # Python dependencies (to be created)
-    │── saved_model/      # Trained model files (optional)
 
 ------------------------------------------------------------------------
 
@@ -98,7 +96,7 @@ model = load_model("saved_model/ann.h5")
 -   Performance may vary depending on preprocessing and hyperparameter
     tuning.
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------x
 
 ## 🔮 Future Improvements
 
